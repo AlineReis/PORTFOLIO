@@ -51,7 +51,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 80px 40px;
+    padding: 50px 40px;
     background: #eef1ff;
     gap: 40px;
 }
@@ -65,16 +65,16 @@ body {
 .hero-texto p {
     width: 80%;
     margin-bottom: 25px;
-    font-size: 18px;
+    font-size: 25px;
 }
 
 .btn-rosa {
-    padding: 12px 22px;
+    padding: 18px 25px;
     background: #ff89c0;
     color: white;
     border-radius: 6px;
     text-decoration: none;
-    font-weight: 600;
+    font-weight: 800;
 }
 
 .hero-foto img {
@@ -86,7 +86,7 @@ body {
    PRINCIPAIS PROJETOS
    ========================= */
 .estudos {
-    padding: 80px 40px;
+    padding: 50px 40px;
     text-align: center;
 }
 
@@ -105,7 +105,7 @@ body {
     background: #cbd0ff;
     padding: 25px;
     border-radius: 12px;
-    text-align: left;
+    text-align: center;
     transition: transform 0.25s ease;
 }
 
@@ -131,7 +131,7 @@ body {
    SEÇÃO CONTATO
    ========================= */
 .contato {
-    padding: 80px 40px;
+    padding: 40px 40px;
     background: #ffb0e0;
     text-align: center;
 }
