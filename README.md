@@ -1,37 +1,40 @@
 # 🌟 Portfólio - Aline Reis
 
-Bem-vindo ao meu portfólio pessoal! Este projeto foi desenvolvido para apresentar minhas habilidades, projetos e experiência como desenvolvedora em formação.
+Seja bem-vindo ao meu portfólio! Este é um projeto que tem como objetivo apresentar minhas habilidades, projetos e experiências como desenvolvedora em formação.
 
 ## 📋 Sobre o Projeto
 
-Este é um site de portfólio responsivo e acessível, criado para destacar minha trajetória profissional e acadêmica na área de tecnologia. O projeto visa combinar design moderno, código limpo e boas práticas de desenvolvimento web.
+Este site de portfólio é um projeto que visa combinar design moderno, código limpo e boas práticas de desenvolvimento web utilizando ferramentas de responsividade e acessibilidade em sua construção.
 
 ## 🛠️ Ferramentas Utilizadas
 
 ### Design e Prototipagem
-- **[Figma](https://www.figma.com/)** - Utilizado para criar o protótipo visual e definir a identidade visual do site, incluindo paleta de cores, layout e espaçamento dos elementos.
+
+- Para criar o protótipo visual e definir a identidade visual do site, a ferramenta utilizada foi o **[Figma](https://www.figma.com/)**.
 
 ### Desenvolvimento
-- **HTML5** - Estruturação semântica do conteúdo
-- **CSS3** - Estilização pura (sem frameworks), com foco em:
+
+- **HTML5**
+- **CSS3**:
   - Design responsivo
   - Animações e transições suaves
   - Acessibilidade
   - Layout Flexbox
 
 ### Versionamento
+
 - **Git** - Controle de versão
 - **GitHub** - Hospedagem do código
 
 ## 📂 Estrutura do Projeto
 
 ```
-PROJETO_PORTFOLIO/
+PORTFOLIO/
 │
-├── index_final.html          # Arquivo HTML principal
-├── style_final.css           # Arquivo CSS com todos os estilos
+├── index.html             # Arquivo HTML principal
+├── style.css              # Arquivo CSS com todos os estilos
 ├── README.md              # Documentação do projeto
-│
+├── .gitignore             # Arquivo .gitignore
 └── assets/                # Pasta com imagens
     ├── eu.jpg             # Foto de perfil
     ├── python.png         # Ícone Python
@@ -57,7 +60,8 @@ PROJETO_PORTFOLIO/
 ## 🚀 Como Visualizar o Projeto
 
 ### Opção 1: Visualizar Online
-Acesse o link do GitHub Pages: [Em breve]
+
+Acesse o link do GitHub Pages: https://alinereis.github.io/PORTFOLIO/
 
 ### Opção 2: Executar Localmente
 
@@ -66,15 +70,15 @@ Acesse o link do GitHub Pages: [Em breve]
 git clone https://github.com/AlineReis/PORTFOLIO
 
 
-2. Abra o arquivo `index_final.html` no seu navegador
+2. Abra o arquivo `index.html` no seu navegador
 
 ## 📱 Responsividade
 
-O site é responsivo e se adapta a diferentes tamanhos de tela.
+O site foi construído para ser responsivo e se adaptar a diferentes tamanhos de tela.
 
 ## ♿ Acessibilidade
 
-O projeto foi desenvolvido seguindo as diretrizes de acessibilidade:
+O projeto foi desenvolvido buscando seguir as diretrizes de acessibilidade:
 
 - Tags semânticas HTML5
 - Atributos ARIA para leitores de tela
@@ -95,4 +99,4 @@ Sou enfermeira, mestre em Bioinformática e desenvolvedora em formação, apaixo
 
 ---
 
-⭐ Se você gostou deste projeto, considere dar uma estrela no repositório!
+⭐ Obrigada pela visita!
