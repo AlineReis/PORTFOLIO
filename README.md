@@ -4,7 +4,7 @@ Bem-vindo ao meu portfólio pessoal! Este projeto foi desenvolvido para apresent
 
 ## 📋 Sobre o Projeto
 
-Este é um site de portfólio responsivo e acessível, criado para destacar minha trajetória profissional e acadêmica na área de tecnologia. O projeto combina design moderno, código limpo e boas práticas de desenvolvimento web.
+Este é um site de portfólio responsivo e acessível, criado para destacar minha trajetória profissional e acadêmica na área de tecnologia. O projeto visa combinar design moderno, código limpo e boas práticas de desenvolvimento web.
 
 ## 🛠️ Ferramentas Utilizadas
 
@@ -62,19 +62,15 @@ Acesse o link do GitHub Pages: [Em breve]
 ### Opção 2: Executar Localmente
 
 1. Clone este repositório:
-```bash
-git clone https://github.com/AlineReis/PORTFOLIO
-```
 
-2. Abra o arquivo `index_final.html` no seu navegador preferido
+git clone https://github.com/AlineReis/PORTFOLIO
+
+
+2. Abra o arquivo `index_final.html` no seu navegador
 
 ## 📱 Responsividade
 
-O site é responsivo e se adapta a diferentes tamanhos de tela:
-
-- **Desktop**: Layout em duas colunas com animações suaves
-- **Tablet**: Ajustes de espaçamento e tamanhos
-- **Mobile**: Layout em coluna única otimizado para telas pequenas
+O site é responsivo e se adapta a diferentes tamanhos de tela.
 
 ## ♿ Acessibilidade
 
@@ -96,10 +92,6 @@ Sou enfermeira, mestre em Bioinformática e desenvolvedora em formação, apaixo
 - **GitHub**: [@AlineReis](https://github.com/AlineReis)
 - **LinkedIn**: [Aline Reis](https://www.linkedin.com/in/aline-r-53a185123/)
 - **Email**: alinesoares_76@hotmail.com
-
-## 📝 Licença
-
-© 2025 Aline Reis. Todos os direitos reservados.
 
 ---
 
