@@ -23,23 +23,13 @@ Este é um site de portfólio responsivo e acessível, criado para destacar minh
 - **Git** - Controle de versão
 - **GitHub** - Hospedagem do código
 
-## ✨ Funcionalidades
-
-- ✅ Design responsivo para todos os dispositivos (desktop, tablet e mobile)
-- ✅ Navegação suave entre seções
-- ✅ Animações e efeitos hover interativos
-- ✅ Acessibilidade com ARIA labels e foco visível
-- ✅ Estrutura semântica HTML5
-- ✅ Links para projetos e redes sociais
-- ✅ Seções organizadas: Sobre, Habilidades, Projetos e Contato
-
 ## 📂 Estrutura do Projeto
 
 ```
 PROJETO_PORTFOLIO/
 │
-├── index_v3.html          # Arquivo HTML principal
-├── style_v3.css           # Arquivo CSS com todos os estilos
+├── index_final.html          # Arquivo HTML principal
+├── style_final.css           # Arquivo CSS com todos os estilos
 ├── README.md              # Documentação do projeto
 │
 └── assets/                # Pasta com imagens
@@ -76,11 +66,11 @@ Acesse o link do GitHub Pages: [Em breve]
 git clone https://github.com/AlineReis/PORTFOLIO
 ```
 
-2. Abra o arquivo `index_v3.html` no seu navegador preferido
+2. Abra o arquivo `index_final.html` no seu navegador preferido
 
 ## 📱 Responsividade
 
-O site foi desenvolvido com abordagem **mobile-first** e é totalmente responsivo:
+O site é responsivo e se adapta a diferentes tamanhos de tela:
 
 - **Desktop**: Layout em duas colunas com animações suaves
 - **Tablet**: Ajustes de espaçamento e tamanhos
